@@ -1,0 +1,9 @@
+a write to stdout
+19
+18
+before fork by pid = 16556
+ppid = 16556, pid = 16557, glob = 7, var = 89
+19
+18
+before fork by pid = 16556
+ppid = 15000, pid = 16556, glob = 6, var = 88
